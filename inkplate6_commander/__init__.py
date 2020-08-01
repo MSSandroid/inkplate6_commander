@@ -1,0 +1,1 @@
+from .inkplate6 import Inkplate6
