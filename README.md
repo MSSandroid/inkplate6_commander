@@ -1,4 +1,4 @@
-# Inkplate6 Uart Commander
+# Inkplate6 UART Commander
 
 Send UART commands to your [Inkplate6](https://www.crowdsupply.com/e-radionica/inkplate-6) in UART mode.
 
