@@ -11,7 +11,7 @@ setuptools.setup(
     description="Send UART commands to Inkplate6",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/MSSandroid/inkplate6_commander",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
